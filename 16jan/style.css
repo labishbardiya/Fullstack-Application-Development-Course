@@ -1,0 +1,7 @@
+/* Connected to index.html for the concept of cascading in CSS (cascading style sheet) */
+
+h1 {
+    color: blue;
+}
+
+/* priority : inline > external > internal */

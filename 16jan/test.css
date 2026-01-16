@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+/* priority of css execution */
+
+/* priority: id > class > tag */
+/* priority : inline > external > internal */
+
+#abc {
+    color: chartreuse;
+}
+
+#cba {
+    color: darkmagenta;
+}
+
+.xyz {
+    color: darkgoldenrod;
+}
+
+h1 {
+    color: brown;
+}
+
