@@ -1,0 +1,31 @@
+.outer {
+    height: 300px;
+    width: 600px;
+    background-color: aquamarine;
+}
+
+.middle {
+    height: 200px;
+    width: 400px;
+    background-color: hotpink;
+}
+
+.inner {
+    height: 100px;
+    width: 200px;
+    background-color: darkkhaki;
+}
+
+.box{
+    border: 2px solid black;
+}
+
+.bg-black {
+    background-color: black;
+    color: white;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
