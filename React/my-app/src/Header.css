@@ -1,0 +1,39 @@
+header {
+  width: 100vw;
+  background-color: black;
+}
+
+.header-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 0 40px 0;
+}
+
+#navbar {
+  width: 100vw;
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.nav-link {
+  color: chocolate;
+  text-decoration: none;
+  padding: 8px;
+}
+
+.nav-link:hover {
+  color: rgb(0, 0, 0);
+}
+
+.box {
+  height: 40vh;
+  width: 80vw;
+}
+
+#box1 {
+  background-color: chartreuse;
+}
